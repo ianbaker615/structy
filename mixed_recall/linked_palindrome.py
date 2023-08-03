@@ -34,4 +34,5 @@ c.next = d
 d.next = e
 e.next = f
 
+# 3 -> 2 -> 7 -> 7 -> 2 -> 3
 assert linked_palindrome(a) is True
