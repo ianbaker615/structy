@@ -36,3 +36,7 @@ e.next = f
 
 # 3 -> 2 -> 7 -> 7 -> 2 -> 3
 assert linked_palindrome(a) is True
+
+# n = number of nodes
+# Time: O(n)
+# Space: O(n)

@@ -37,3 +37,7 @@ d.next = e
 
 # a -> b -> c -> d -> e
 middle_value(a)  # c
+
+# n = number of nodes
+# Time: O(n)
+# Space: O(1)
