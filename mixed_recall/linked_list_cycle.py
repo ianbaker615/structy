@@ -55,5 +55,5 @@ d.next = b  # cycle
 #         _______
 #       /        \
 # a -> b -> c -> d
-linked_list_cycle(a)  # True
-linked_list_cycle_ptr(a)  # True
+assert linked_list_cycle(a) is True
+assert linked_list_cycle_ptr(a) is True
